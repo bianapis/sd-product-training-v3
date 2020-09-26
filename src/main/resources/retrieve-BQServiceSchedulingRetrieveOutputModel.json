@@ -1,0 +1,26 @@
+{
+  "serviceSchedulingInstanceAnalysis" : {
+    "serviceSchedulingInstanceAnalysisRecord" : {},
+    "serviceSchedulingInstanceAnalysisReportType" : "serviceSchedulingInstanceAnalysisReportType",
+    "serviceSchedulingInstanceAnalysisParameters" : "serviceSchedulingInstanceAnalysisParameters",
+    "serviceSchedulingInstanceAnalysisReport" : {}
+  },
+  "serviceSchedulingRetrieveActionResponse" : "serviceSchedulingRetrieveActionResponse",
+  "serviceSchedulingRetrieveActionTaskRecord" : {},
+  "serviceSchedulingPostconditions" : "serviceSchedulingPostconditions",
+  "serviceSchedulingServiceSchedulingServiceWorkProduct" : "serviceSchedulingServiceSchedulingServiceWorkProduct",
+  "serviceSchedulingWorkSchedule" : "serviceSchedulingWorkSchedule",
+  "serviceSchedulingServiceSchedulingServiceType" : "serviceSchedulingServiceSchedulingServiceType",
+  "serviceSchedulingServiceSchedulingServiceDescription" : "serviceSchedulingServiceSchedulingServiceDescription",
+  "serviceSchedulingInstanceReport" : {
+    "serviceSchedulingInstanceReport" : {},
+    "serviceSchedulingInstanceReportType" : "serviceSchedulingInstanceReportType",
+    "serviceSchedulingInstanceReportParameters" : "serviceSchedulingInstanceReportParameters",
+    "serviceSchedulingInstanceReportRecord" : {}
+  },
+  "serviceSchedulingBusinessUnitEmployeeReference" : "SSBUR733750",
+  "serviceSchedulingServiceSchedulingServiceInputsandOuputs" : "serviceSchedulingServiceSchedulingServiceInputsandOuputs",
+  "serviceSchedulingServiceSchedulingServiceName" : "serviceSchedulingServiceSchedulingServiceName",
+  "serviceSchedulingPreconditions" : "serviceSchedulingPreconditions",
+  "serviceSchedulingRetrieveActionTaskReference" : "SSRATR712706"
+}

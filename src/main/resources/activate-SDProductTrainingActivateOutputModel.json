@@ -1,0 +1,24 @@
+{
+  "productTrainingServicingSessionReference" : "SSSR783215",
+  "productTrainingServicingSessionRecord" : {},
+  "productTrainingActivationActionTaskReference" : "SAATR758836",
+  "productTrainingActivationActionTaskRecord" : {},
+  "productTrainingServiceConfigurationRecord" : {
+    "productTrainingServiceAgreement" : {
+      "productTrainingServiceUserReference" : "767210",
+      "productTrainingServiceAgreementReference" : "791202",
+      "productTrainingServiceAgreementTermsandConditions" : "productTrainingServiceAgreementTermsandConditions"
+    },
+    "productTrainingServiceStatus" : "productTrainingServiceStatus",
+    "productTrainingServiceSubscription" : {
+      "productTrainingServiceSubscriberAccessProfile" : "productTrainingServiceSubscriberAccessProfile",
+      "productTrainingServiceSubscriberReference" : "769192"
+    },
+    "productTrainingServiceConfigurationSettingReference" : "700761",
+    "productTrainingServiceConfigurationSetup" : {
+      "productTrainingServiceConfigurationParameter" : "productTrainingServiceConfigurationParameter"
+    },
+    "productTrainingServiceConfigurationSettingDescription" : "productTrainingServiceConfigurationSettingDescription"
+  },
+  "productTrainingServicingSessionStatus" : "productTrainingServicingSessionStatus"
+}

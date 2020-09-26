@@ -1,0 +1,39 @@
+{
+  "productTrainingRetrieveActionTaskReference" : "SRATR795161",
+  "productTrainingRetrieveActionResponse" : "productTrainingRetrieveActionResponse",
+  "productTrainingRetrieveActionTaskRecord" : {},
+  "productTrainingRetrieveActionRecord" : {
+    "productTrainingPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "productTrainingActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "productTrainingOfferedService" : {
+    "productTrainingServiceRecord" : {
+      "productTrainingServiceDescription" : "productTrainingServiceDescription",
+      "productTrainingServicePoliciesandGuidelines" : {
+        "productTrainingServiceIntendedUses" : "productTrainingServiceIntendedUses",
+        "productTrainingServiceEligibility" : "productTrainingServiceEligibility",
+        "productTrainingServicePricingandTerms" : "productTrainingServicePricingandTerms"
+      },
+      "productTrainingServiceVersion" : "productTrainingServiceVersion",
+      "productTrainingServiceSchedule" : "productTrainingServiceSchedule",
+      "productTrainingServiceType" : "productTrainingServiceType"
+    },
+    "productTrainingServiceReference" : "776158"
+  }
+}

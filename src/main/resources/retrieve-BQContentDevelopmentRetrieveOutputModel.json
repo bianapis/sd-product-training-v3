@@ -1,0 +1,26 @@
+{
+  "contentDevelopmentContentDevelopmentServiceWorkProduct" : "contentDevelopmentContentDevelopmentServiceWorkProduct",
+  "contentDevelopmentPostconditions" : "contentDevelopmentPostconditions",
+  "contentDevelopmentContentDevelopmentServiceType" : "contentDevelopmentContentDevelopmentServiceType",
+  "contentDevelopmentBusinessUnitEmployeeReference" : "CDBUR791212",
+  "contentDevelopmentRetrieveActionResponse" : "contentDevelopmentRetrieveActionResponse",
+  "contentDevelopmentPreconditions" : "contentDevelopmentPreconditions",
+  "contentDevelopmentContentDevelopmentServiceInputsandOuputs" : "contentDevelopmentContentDevelopmentServiceInputsandOuputs",
+  "contentDevelopmentInstanceAnalysis" : {
+    "contentDevelopmentInstanceAnalysisReport" : {},
+    "contentDevelopmentInstanceAnalysisRecord" : {},
+    "contentDevelopmentInstanceAnalysisReportType" : "contentDevelopmentInstanceAnalysisReportType",
+    "contentDevelopmentInstanceAnalysisParameters" : "contentDevelopmentInstanceAnalysisParameters"
+  },
+  "contentDevelopmentRetrieveActionTaskReference" : "CDRATR753275",
+  "contentDevelopmentWorkSchedule" : "contentDevelopmentWorkSchedule",
+  "contentDevelopmentContentDevelopmentServiceDescription" : "contentDevelopmentContentDevelopmentServiceDescription",
+  "contentDevelopmentRetrieveActionTaskRecord" : {},
+  "contentDevelopmentInstanceReport" : {
+    "contentDevelopmentInstanceReportType" : "contentDevelopmentInstanceReportType",
+    "contentDevelopmentInstanceReport" : {},
+    "contentDevelopmentInstanceReportParameters" : "contentDevelopmentInstanceReportParameters",
+    "contentDevelopmentInstanceReportRecord" : {}
+  },
+  "contentDevelopmentContentDevelopmentServiceName" : "contentDevelopmentContentDevelopmentServiceName"
+}

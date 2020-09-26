@@ -1,0 +1,13 @@
+{
+  "serviceEvaluationBusinessUnitEmployeeReference" : "SEBUR733543",
+  "serviceEvaluationPostconditions" : "serviceEvaluationPostconditions",
+  "serviceEvaluationWorkSchedule" : "serviceEvaluationWorkSchedule",
+  "serviceEvaluationServiceEvaluationServiceInputsandOuputs" : "serviceEvaluationServiceEvaluationServiceInputsandOuputs",
+  "serviceEvaluationServiceEvaluationServiceWorkProduct" : "serviceEvaluationServiceEvaluationServiceWorkProduct",
+  "serviceEvaluationUpdateActionTaskRecord" : {},
+  "serviceEvaluationServiceEvaluationServiceDescription" : "serviceEvaluationServiceEvaluationServiceDescription",
+  "updateResponseRecord" : {},
+  "serviceEvaluationPreconditions" : "serviceEvaluationPreconditions",
+  "serviceEvaluationServiceEvaluationServiceType" : "serviceEvaluationServiceEvaluationServiceType",
+  "serviceEvaluationUpdateActionTaskReference" : "SEUATR713294"
+}

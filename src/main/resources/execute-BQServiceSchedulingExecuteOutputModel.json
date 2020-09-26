@@ -1,0 +1,15 @@
+{
+  "executeResponseRecord" : {},
+  "serviceSchedulingExecuteActionTaskRecord" : {},
+  "serviceSchedulingPostconditions" : "serviceSchedulingPostconditions",
+  "serviceSchedulingServiceSchedulingServiceWorkProduct" : "serviceSchedulingServiceSchedulingServiceWorkProduct",
+  "serviceSchedulingWorkSchedule" : "serviceSchedulingWorkSchedule",
+  "serviceSchedulingServiceSchedulingServiceType" : "serviceSchedulingServiceSchedulingServiceType",
+  "serviceSchedulingServiceSchedulingServiceDescription" : "serviceSchedulingServiceSchedulingServiceDescription",
+  "serviceSchedulingExecuteRecordReference" : "SSERR791130",
+  "serviceSchedulingBusinessUnitEmployeeReference" : "SSBUR738323",
+  "serviceSchedulingServiceSchedulingServiceInputsandOuputs" : "serviceSchedulingServiceSchedulingServiceInputsandOuputs",
+  "serviceSchedulingExecuteActionTaskReference" : "SSEATR726485",
+  "serviceSchedulingServiceSchedulingServiceName" : "serviceSchedulingServiceSchedulingServiceName",
+  "serviceSchedulingPreconditions" : "serviceSchedulingPreconditions"
+}

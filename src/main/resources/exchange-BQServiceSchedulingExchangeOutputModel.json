@@ -1,0 +1,15 @@
+{
+  "serviceSchedulingExchangeActionTaskReference" : "SSEATR765225",
+  "serviceSchedulingExchangeActionTaskRecord" : {},
+  "serviceSchedulingExchangeActionResponse" : "serviceSchedulingExchangeActionResponse",
+  "serviceSchedulingPostconditions" : "serviceSchedulingPostconditions",
+  "serviceSchedulingServiceSchedulingServiceWorkProduct" : "serviceSchedulingServiceSchedulingServiceWorkProduct",
+  "serviceSchedulingWorkSchedule" : "serviceSchedulingWorkSchedule",
+  "serviceSchedulingServiceSchedulingServiceType" : "serviceSchedulingServiceSchedulingServiceType",
+  "serviceSchedulingServiceSchedulingServiceDescription" : "serviceSchedulingServiceSchedulingServiceDescription",
+  "serviceSchedulingBusinessUnitEmployeeReference" : "SSBUR790484",
+  "serviceSchedulingServiceSchedulingServiceInputsandOuputs" : "serviceSchedulingServiceSchedulingServiceInputsandOuputs",
+  "serviceSchedulingInstanceStatus" : "serviceSchedulingInstanceStatus",
+  "serviceSchedulingServiceSchedulingServiceName" : "serviceSchedulingServiceSchedulingServiceName",
+  "serviceSchedulingPreconditions" : "serviceSchedulingPreconditions"
+}

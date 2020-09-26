@@ -1,0 +1,21 @@
+{
+  "productTrainingConfigurationActionTaskRecord" : {},
+  "productTrainingConfigurationActionTaskReference" : "SCATR765419",
+  "productTrainingServiceConfigurationRecord" : {
+    "productTrainingServiceAgreement" : {
+      "productTrainingServiceUserReference" : "733696",
+      "productTrainingServiceAgreementReference" : "721156",
+      "productTrainingServiceAgreementTermsandConditions" : "productTrainingServiceAgreementTermsandConditions"
+    },
+    "productTrainingServiceStatus" : "productTrainingServiceStatus",
+    "productTrainingServiceSubscription" : {
+      "productTrainingServiceSubscriberAccessProfile" : "productTrainingServiceSubscriberAccessProfile",
+      "productTrainingServiceSubscriberReference" : "756221"
+    },
+    "productTrainingServiceConfigurationSetup" : {
+      "productTrainingServiceConfigurationParameter" : "productTrainingServiceConfigurationParameter"
+    },
+    "productTrainingServiceConfigurationSettingDescription" : "productTrainingServiceConfigurationSettingDescription"
+  },
+  "productTrainingServicingSessionStatus" : "productTrainingServicingSessionStatus"
+}

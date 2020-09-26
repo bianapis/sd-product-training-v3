@@ -1,0 +1,34 @@
+{
+  "productTrainingProcedureTransactionType" : "productTrainingProcedureTransactionType",
+  "productTrainingProcedureBusinessUnitReference" : "PTPBUR707169",
+  "productTrainingProcedureFinancialTransactionArrangement" : "productTrainingProcedureFinancialTransactionArrangement",
+  "productTrainingProcedureInstanceAnalysis" : {
+    "productTrainingProcedureInstanceAnalysisData" : "productTrainingProcedureInstanceAnalysisData",
+    "productTrainingProcedureInstanceAnalysisReport" : {},
+    "productTrainingProcedureInstanceAnalysisReportType" : "productTrainingProcedureInstanceAnalysisReportType"
+  },
+  "productTrainingProcedureServiceProviderSchedule" : "productTrainingProcedureServiceProviderSchedule",
+  "productTrainingProcedureFinancialFacilityReference" : "PTPFFR764170",
+  "productTrainingProcedureSelectedOption" : "productTrainingProcedureSelectedOption",
+  "productTrainingProcedureStatus" : "productTrainingProcedureStatus",
+  "productTrainingProcedureServiceType" : "productTrainingProcedureServiceType",
+  "productTrainingProcedureSchedule" : "productTrainingProcedureSchedule",
+  "productTrainingProcedureCustomerReference" : "PTPCR794277",
+  "productTrainingProcedureRetrieveActionResponse" : "productTrainingProcedureRetrieveActionResponse",
+  "productTrainingProcedureServiceProviderReference" : "PTPSR779048",
+  "productTrainingProcedureParameterType" : "productTrainingProcedureParameterType",
+  "productTrainingProcedureRequest" : "productTrainingProcedureRequest",
+  "productTrainingProcedureType" : "productTrainingProcedureType",
+  "productTrainingProcedureCustomerAgreementReference" : "PTPCAR770772",
+  "productTrainingProcedureRetrieveActionTaskReference" : "PTPRATR733987",
+  "productTrainingProcedureInstanceReportRecord" : {
+    "productTrainingProcedureInstanceReportType" : "productTrainingProcedureInstanceReportType",
+    "productTrainingProcedureInstanceReportData" : "productTrainingProcedureInstanceReportData",
+    "productTrainingProcedureInstanceReport" : {}
+  },
+  "productTrainingProcedureReference" : "PTPR751006",
+  "productTrainingProcedureEmployeeReference" : "PTPER782132",
+  "productTrainingProcedureProductandServiceType" : "productTrainingProcedureProductandServiceType",
+  "productTrainingProcedureProductandServiceInstance" : "productTrainingProcedureProductandServiceInstance",
+  "productTrainingProcedureRetrieveActionTaskRecord" : {}
+}

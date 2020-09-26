@@ -1,0 +1,25 @@
+{
+  "serviceEvaluationBusinessUnitEmployeeReference" : "SEBUR740863",
+  "serviceEvaluationServiceEvaluationServiceInputsandOuputs" : "serviceEvaluationServiceEvaluationServiceInputsandOuputs",
+  "serviceEvaluationRetrieveActionTaskReference" : "SERATR729050",
+  "serviceEvaluationServiceEvaluationServiceDescription" : "serviceEvaluationServiceEvaluationServiceDescription",
+  "serviceEvaluationRetrieveActionResponse" : "serviceEvaluationRetrieveActionResponse",
+  "serviceEvaluationPreconditions" : "serviceEvaluationPreconditions",
+  "serviceEvaluationInstanceReport" : {
+    "serviceEvaluationInstanceReportParameters" : "serviceEvaluationInstanceReportParameters",
+    "serviceEvaluationInstanceReportType" : "serviceEvaluationInstanceReportType",
+    "serviceEvaluationInstanceReport" : {},
+    "serviceEvaluationInstanceReportRecord" : {}
+  },
+  "serviceEvaluationRetrieveActionTaskRecord" : {},
+  "serviceEvaluationInstanceAnalysis" : {
+    "serviceEvaluationInstanceAnalysisReport" : {},
+    "serviceEvaluationInstanceAnalysisRecord" : {},
+    "serviceEvaluationInstanceAnalysisParameters" : "serviceEvaluationInstanceAnalysisParameters",
+    "serviceEvaluationInstanceAnalysisReportType" : "serviceEvaluationInstanceAnalysisReportType"
+  },
+  "serviceEvaluationPostconditions" : "serviceEvaluationPostconditions",
+  "serviceEvaluationWorkSchedule" : "serviceEvaluationWorkSchedule",
+  "serviceEvaluationServiceEvaluationServiceWorkProduct" : "serviceEvaluationServiceEvaluationServiceWorkProduct",
+  "serviceEvaluationServiceEvaluationServiceType" : "serviceEvaluationServiceEvaluationServiceType"
+}

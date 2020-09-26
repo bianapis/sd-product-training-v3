@@ -1,0 +1,11 @@
+{
+  "productTrainingProcedureInitiateActionRecord" : {},
+  "productTrainingProcedureInstanceReference" : "PTPIR727148",
+  "productTrainingProcedureSelectedOption" : "productTrainingProcedureSelectedOption",
+  "productTrainingProcedureStatus" : "productTrainingProcedureStatus",
+  "productTrainingProcedureInstanceStatus" : "productTrainingProcedureInstanceStatus",
+  "productTrainingProcedureSchedule" : "productTrainingProcedureSchedule",
+  "productTrainingProcedureInitiateActionReference" : "PTPIAR752338",
+  "productTrainingProcedureParameterType" : "productTrainingProcedureParameterType",
+  "productTrainingProcedureRequest" : "productTrainingProcedureRequest"
+}

@@ -1,0 +1,11 @@
+{
+  "executeRecordReference" : "ERR797683",
+  "executeResponseRecord" : {},
+  "productTrainingProcedureExecuteActionTaskRecord" : {},
+  "productTrainingProcedureSelectedOption" : "productTrainingProcedureSelectedOption",
+  "productTrainingProcedureStatus" : "productTrainingProcedureStatus",
+  "productTrainingProcedureSchedule" : "productTrainingProcedureSchedule",
+  "productTrainingProcedureExecuteActionTaskReference" : "PTPEATR739229",
+  "productTrainingProcedureParameterType" : "productTrainingProcedureParameterType",
+  "productTrainingProcedureRequest" : "productTrainingProcedureRequest"
+}

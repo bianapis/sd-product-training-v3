@@ -1,0 +1,15 @@
+{
+  "serviceDeliveryPostconditions" : "serviceDeliveryPostconditions",
+  "serviceDeliveryServiceDeliveryServiceInputsandOuputs" : "serviceDeliveryServiceDeliveryServiceInputsandOuputs",
+  "serviceDeliveryServiceDeliveryServiceDescription" : "serviceDeliveryServiceDeliveryServiceDescription",
+  "serviceDeliveryRequestActionTaskRecord" : {},
+  "serviceDeliveryBusinessUnitEmployeeReference" : "SDBUR799022",
+  "requestResponseRecord" : {},
+  "serviceDeliveryServiceDeliveryServiceType" : "serviceDeliveryServiceDeliveryServiceType",
+  "serviceDeliveryPreconditions" : "serviceDeliveryPreconditions",
+  "serviceDeliveryRequestActionTaskReference" : "SDRATR704811",
+  "serviceDeliveryServiceDeliveryServiceWorkProduct" : "serviceDeliveryServiceDeliveryServiceWorkProduct",
+  "serviceDeliveryRequestRecordReference" : "SDRRR719242",
+  "serviceDeliveryServiceDeliveryServiceName" : "serviceDeliveryServiceDeliveryServiceName",
+  "serviceDeliveryWorkSchedule" : "serviceDeliveryWorkSchedule"
+}

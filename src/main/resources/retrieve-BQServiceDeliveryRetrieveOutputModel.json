@@ -1,0 +1,26 @@
+{
+  "serviceDeliveryPostconditions" : "serviceDeliveryPostconditions",
+  "serviceDeliveryServiceDeliveryServiceInputsandOuputs" : "serviceDeliveryServiceDeliveryServiceInputsandOuputs",
+  "serviceDeliveryServiceDeliveryServiceDescription" : "serviceDeliveryServiceDeliveryServiceDescription",
+  "serviceDeliveryInstanceAnalysis" : {
+    "serviceDeliveryInstanceAnalysisRecord" : {},
+    "serviceDeliveryInstanceAnalysisReportType" : "serviceDeliveryInstanceAnalysisReportType",
+    "serviceDeliveryInstanceAnalysisParameters" : "serviceDeliveryInstanceAnalysisParameters",
+    "serviceDeliveryInstanceAnalysisReport" : {}
+  },
+  "serviceDeliveryBusinessUnitEmployeeReference" : "SDBUR753370",
+  "serviceDeliveryServiceDeliveryServiceType" : "serviceDeliveryServiceDeliveryServiceType",
+  "serviceDeliveryRetrieveActionResponse" : "serviceDeliveryRetrieveActionResponse",
+  "serviceDeliveryInstanceReport" : {
+    "serviceDeliveryInstanceReportParameters" : "serviceDeliveryInstanceReportParameters",
+    "serviceDeliveryInstanceReportRecord" : {},
+    "serviceDeliveryInstanceReport" : {},
+    "serviceDeliveryInstanceReportType" : "serviceDeliveryInstanceReportType"
+  },
+  "serviceDeliveryPreconditions" : "serviceDeliveryPreconditions",
+  "serviceDeliveryServiceDeliveryServiceWorkProduct" : "serviceDeliveryServiceDeliveryServiceWorkProduct",
+  "serviceDeliveryServiceDeliveryServiceName" : "serviceDeliveryServiceDeliveryServiceName",
+  "serviceDeliveryRetrieveActionTaskReference" : "SDRATR742061",
+  "serviceDeliveryRetrieveActionTaskRecord" : {},
+  "serviceDeliveryWorkSchedule" : "serviceDeliveryWorkSchedule"
+}

@@ -1,0 +1,15 @@
+{
+  "serviceSchedulingInitiateActionRecord" : {},
+  "serviceSchedulingInitiateActionReference" : "SSIAR771858",
+  "serviceSchedulingPostconditions" : "serviceSchedulingPostconditions",
+  "serviceSchedulingServiceSchedulingServiceWorkProduct" : "serviceSchedulingServiceSchedulingServiceWorkProduct",
+  "serviceSchedulingWorkSchedule" : "serviceSchedulingWorkSchedule",
+  "serviceSchedulingServiceSchedulingServiceType" : "serviceSchedulingServiceSchedulingServiceType",
+  "serviceSchedulingServiceSchedulingServiceDescription" : "serviceSchedulingServiceSchedulingServiceDescription",
+  "serviceSchedulingInstanceReference" : "SSIR719842",
+  "serviceSchedulingBusinessUnitEmployeeReference" : "SSBUR763454",
+  "serviceSchedulingServiceSchedulingServiceInputsandOuputs" : "serviceSchedulingServiceSchedulingServiceInputsandOuputs",
+  "serviceSchedulingInstanceStatus" : "serviceSchedulingInstanceStatus",
+  "serviceSchedulingServiceSchedulingServiceName" : "serviceSchedulingServiceSchedulingServiceName",
+  "serviceSchedulingPreconditions" : "serviceSchedulingPreconditions"
+}
